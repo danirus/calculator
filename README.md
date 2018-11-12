@@ -1,2 +1,3 @@
-# calculator
-Book's example on building with Jenkins Pipelines
+# Calculator
+
+Book's example on building with Jenkins Pipelines.
